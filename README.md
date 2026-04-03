@@ -10,6 +10,9 @@ Co-authors:
 - Liam Fitzpatrick <fitzpatr@bu.edu>
 - Wei Li <weili17@bu.edu>
 
+Pre-Print:
+- [arXiv:2604.01275](https://arxiv.org/abs/2604.01275)
+
 ## Context ##
 
 This Mathematica code regenerates all of the figures and tables from arXiv:2604.xxxxx, related to solving the numerical modular bootstrap equations using machine-learning-style optimization.  The main file is `ml_cft.nb`, which reads in existing optimization results from the `runs` folder.  Plots and tables from the paper are in the `plots` folder, while plots used for debugging appear in `tests`.
